@@ -11,8 +11,8 @@
 class Moonlab < Formula
   desc "High-performance quantum computing simulator with GPU acceleration"
   homepage "https://github.com/tsotchke/moonlab"
-  url "https://github.com/tsotchke/moonlab/archive/refs/tags/v1.2.0.tar.gz"
-  sha256 "d3a0447e9caadc02451009e379cd04456ff4bf8bbbfae035d23d76e20c2d8b7b"
+  url "https://github.com/tsotchke/moonlab/archive/refs/tags/v1.2.1.tar.gz"
+  sha256 "f17c2633068d8559ce2def4fe1f95ca0b76b9db6e9e9f9cf0ee5f37143fbd7c7"
   license "MIT"
   head "https://github.com/tsotchke/moonlab.git", branch: "main"
 
